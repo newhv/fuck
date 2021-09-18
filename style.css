@@ -35,7 +35,7 @@ ul li a {
     display: block;
     padding: 0 20px;
     font-family: arial;
-    font-size: 14px;
+    font-size: auto;
 
 }
 
