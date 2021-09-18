@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li> <a href="Funktion oder Zuordernung.html">FUNKTION ODER ZUORDNUNG</a></li>
+            <li> <a href="Funktion oder Zuordernung.html">LINEARE FUNKTIONEN</a></li>
+            <li> <a href="Funktion oder Zuordernung.html">QUADRATISCHE FUNKTIONEN</a></li>
+            <li> <a href="Funktion oder Zuordernung.html">POTENZFUNKTIONEN</a></li>
+            <li> <a href="Funktion oder Zuordernung.html">GANZRATIONALE FUNKTIONEN</a></li>
+        </ul>
+
+
+
+
+    </nav>
+
+
+
+</body>
