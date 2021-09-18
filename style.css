@@ -54,14 +54,14 @@ div.hero {
     
 }
 
-div.2 {
-    min-hieght=100vh;
-    widht=100%
+div.zwei {
+    min-height: 100vh;
+    widht:100%;
     background-image: url(https://i.pinimg.com/originals/15/f5/47/15f547aaa05d97fc4edf670627f54e85.gif);
     background-size:60%;
-    background-repeat: no-repeat;
     background-position:center;
-}
+    background-repeat: no-repea
+
     
     
     
